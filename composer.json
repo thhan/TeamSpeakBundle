@@ -1,5 +1,5 @@
 {
-  "name": "esports-academy/teamspeak-bundle",
+  "name": "esports-alliance/teamspeak-bundle",
   "description": "teamspeak service to connect to teamspeak-server and convert teamspeak events to symfony events",
   "type": "symfony-bundle",
   "authors": [
@@ -21,7 +21,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ESA\\TeamSpeakBundle\\": ""
+      "ESportsAlliance\\TeamSpeakBundle\\": "src/"
     }
   }
 }

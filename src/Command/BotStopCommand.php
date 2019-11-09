@@ -1,14 +1,6 @@
 <?php
-/**
- * eSports-Academy
- * Created by PhpStorm.
- * File: BotRunCommand.php
- * User: y4roc
- * Date: 18.10.17
- * Time: 18:12
- */
 
-namespace ESA\TeamSpeakBundle\Command;
+namespace ESportsAlliance\TeamSpeakBundle\Command;
 
 
 use Symfony\Bundle\FrameworkBundle\Command\ContainerAwareCommand;

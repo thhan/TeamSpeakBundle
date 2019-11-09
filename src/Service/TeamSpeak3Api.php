@@ -1,19 +1,11 @@
 <?php
-/**
- * eSports-Academy
- * Created by PhpStorm.
- * File: TeamSpeak3Api.php
- * User: y4roc
- * Date: 17.10.17
- * Time: 06:26
- */
 
-namespace ESA\TeamSpeakBundle\Service;
+namespace ESportsAlliance\TeamSpeakBundle\Service;
 
 /**
  * Class TeamSpeak3Api
  *
- * @package eSA\TeamSpeakBundle\Service
+ * @package ESportsAlliance\TeamSpeakBundle\Service
  * @method
  */
 class TeamSpeak3Api

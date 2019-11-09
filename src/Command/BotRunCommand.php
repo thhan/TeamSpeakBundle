@@ -1,14 +1,6 @@
 <?php
-/**
- * eSports-Academy
- * Created by PhpStorm.
- * File: BotCommand.php
- * User: y4roc
- * Date: 17.10.17
- * Time: 06:23
- */
 
-namespace ESA\TeamSpeakBundle\Command;
+namespace ESportsAlliance\TeamSpeakBundle\Command;
 
 
 use ESA\TeamSpeakBundle\Event\ChannelCreatedEvent;

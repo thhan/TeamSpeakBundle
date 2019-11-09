@@ -1,14 +1,6 @@
 <?php
-/**
- * eSports-Academy
- * Created by PhpStorm.
- * File: AbstractTeamspeakEvent.php
- * User: y4roc
- * Date: 17.10.17
- * Time: 07:03
- */
 
-namespace ESA\TeamSpeakBundle\Event;
+namespace ESportsAlliance\TeamSpeakBundle\Event;
 
 
 use Symfony\Component\EventDispatcher\Event;
